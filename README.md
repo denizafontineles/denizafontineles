@@ -1,14 +1,31 @@
-# Olá, eu sou a Val! 
-### 👋 Bem vindo ao meu GitHub! 
 
-##### 💻 Aqui você irá encontrar projetos com as seguintes tecnologias:
+# Bem-vindos ao meu GitHub 🤍
+
+### 💻 Aqui você irá encontrar projetos com as seguintes tecnologias:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"  width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" />
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,mysql,java,spring,python)](https://skillicons.dev)
+
 </div>
+
+## 🔍 Dados do perfil
+<div>
+
+![Valdeniza's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizafontineles&show_icons=true&rank_icon=github&include_all_commits=true&theme=dracula&hide=stars,issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizafontineles&hide_progress=true&theme=dracula)
+
+</div>
+
+### 📲 Se conecte e bora trocar figurinha:
+
+<div>
+<a href="https://www.linkedin.com/in/valdeniza-fontineles-66761727b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+
+
+
+
